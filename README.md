@@ -26,4 +26,6 @@ Here are some ideas to get you started:
 
 ![Wwakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=qihonggang&hide_title=true&hide_border=true&langs_count=5)
 
+📊 **The top langs**
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qihonggang&layout=compact)
