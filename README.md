@@ -28,5 +28,4 @@ Here are some ideas to get you started:
 
 📊 **This week I spent my time on**
 
-![Wwakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=qihonggang&hide_title=true&hide_border=true&langs_count=5)
-
+![Wwakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=qihonggang&hide_title=true&hide_border=true)
