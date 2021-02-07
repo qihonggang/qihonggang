@@ -27,7 +27,8 @@ Here are some ideas to get you started:
 📊 **Last week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Go       1 hr 14 mins    ███████████████▒░░░░░░░░░   60.80 % 
+Python   47 mins         █████████▓░░░░░░░░░░░░░░░   39.20 % 
 ```
 <!--END_SECTION:waka-->
 ![Wwakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=qihonggang&hide_title=true&hide_border=true)
