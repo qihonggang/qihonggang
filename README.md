@@ -2,7 +2,6 @@
 
 <!--
 **qihonggang/qihonggang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,6 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on something cool 😉
@@ -23,6 +24,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: 
 
 📊 **This week I spent my time on**
+
 
 ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=qihonggang&hide_title=true&hide_border=true&langs_count=5)
 
