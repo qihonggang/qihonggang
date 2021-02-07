@@ -13,11 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
 
 - 🔭 I’m currently working on something cool 😉
 - 🌱 I’m currently learning Iot, Knowledge Graph and Flink.
@@ -30,5 +25,6 @@ No Activity tracked this Week
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qihonggang&layout=compact)
 
 📊 **Last week I spent my time on**
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 ![Wwakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=qihonggang&hide_title=true&hide_border=true)
