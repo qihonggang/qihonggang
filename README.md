@@ -14,9 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
 <!--END_SECTION:waka-->
 Here are some ideas to get you started:
 
@@ -27,4 +24,6 @@ Here are some ideas to get you started:
 
 📊 **This week I spent my time on**
 
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=qihonggang&hide_title=true&hide_border=true&langs_count=5)
+![Wwakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=qihonggang&hide_title=true&hide_border=true&langs_count=5)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qihonggang&layout=compact)
