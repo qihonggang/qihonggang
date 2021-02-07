@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on something cool 😉
@@ -21,9 +23,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: sxxzqhg@gmail.com
 
 📊 **This week I spent my time on**
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=qihonggang&count_private=true&hide_title=true&hide_border=true&langs_count=5)
+
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=qihonggang&hide_title=true&hide_border=true&langs_count=5)
