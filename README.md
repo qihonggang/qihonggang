@@ -20,10 +20,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: sxxzqhg@gmail.com
 
 
-📊 **The top langs**
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qihonggang&layout=compact)
-
 📊 **Last week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
@@ -31,4 +27,3 @@ Go       1 hr 14 mins    ███████████████▒░░�
 Python   47 mins         █████████▓░░░░░░░░░░░░░░░   39.20 % 
 ```
 <!--END_SECTION:waka-->
-![Wwakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=qihonggang&hide_title=true&hide_border=true)
