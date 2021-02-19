@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: sxxzqhg@gmail.com
 
 
-📊 **This week I spent my time on**
+📊 **Last 7 day I spent my time on**
 <!--START_SECTION:waka-->
 ```text
 Go         12 hrs 58 mins  █████████████████▒░░░░░░░   69.41 % 
