@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on something cool 😉
 - 🌱 I’m currently learning Iot, Knowledge Graph and Flink.
 - 💬 Ask me about Golang/Java/Python
-- :star: My blog is [imhogan.me](http://blog.imhogan.me)
+- :star: My blog is [blog.imhogan.me](http://blog.imhogan.me)
 - 📫 How to reach me: sxxzqhg@gmail.com
 
 
