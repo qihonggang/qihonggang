@@ -21,7 +21,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: sxxzqhg@gmail.com
 
 
-📊 **Last 7 day I spent my time on**
+📊 **Last 30 day I spent my time on**
+<!--
 <!--START_SECTION:waka-->
 ```text
 Other        15 hrs 25 mins  ███████████████████░░░░░░   75.89 % 
@@ -31,3 +32,5 @@ Python       1 min           ░░░░░░░░░░░░░░░░░
 Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 ```
 <!--END_SECTION:waka-->
+-->
+<img src="https://wakatime.com/share/@qihonggang/f76732fd-9542-4f30-93dd-91e794c4d095.svg">
