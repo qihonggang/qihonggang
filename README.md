@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- <!--START_SECTION:waka--><!--END_SECTION:waka-->
 -->
 
 - 🔭 I’m currently working on something cool 😉
@@ -22,15 +23,4 @@ Here are some ideas to get you started:
 
 
 📊 **Last 30 day I spent my time on**
-<!--
-<!--START_SECTION:waka-->
-```text
-Other        15 hrs 25 mins  ███████████████████░░░░░░   75.89 % 
-Go           4 hrs 23 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.63 % 
-Markdown     27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
-Python       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
-Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
-```
-<!--END_SECTION:waka-->
--->
-<img src="https://wakatime.com/share/@qihonggang/f76732fd-9542-4f30-93dd-91e794c4d095.svg">
+<img src="https://wakatime.com/share/@qihonggang/ea8b70dc-b288-429f-ae0a-4da0c0906794.svg">
