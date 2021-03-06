@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 
 
 📊 **Last 30 day I spent my time on**
-<img src="https://wakatime.com/share/@qihonggang/ea8b70dc-b288-429f-ae0a-4da0c0906794.svg">
+<img src="https://wakatime.com/share/@qihonggang/c793ba4e-9e19-468c-a03b-d458f184edaf.png" />
