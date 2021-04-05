@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: sxxzqhg@gmail.com
 
 
-📊 **Last 30 day I spent my time on**
-<img src="https://wakatime.com/share/@qihonggang/c793ba4e-9e19-468c-a03b-d458f184edaf.png" />
+📊 **Last 30 day my coding activity**
+<img src="https://wakatime.com/share/@qihonggang/6a4db9d4-3f0b-4a44-98d5-e37cdb1d61ec.png" />
