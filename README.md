@@ -15,12 +15,8 @@ Here are some ideas to get you started:
 - #START_SECTION:waka# #END_SECTION:waka#
 -->
 
-- 🔭 I’m currently working on something cool 😉
-- 🌱 I’m currently learning Iot, Knowledge Graph and Flink.
+- 🔭 I’m currently working on XPeng Motors😉
+- 🌱 I’m currently learning K8s, Prometheus and Grafana.
 - 💬 Ask me about Golang/Java/Python
 - :star: My blog is [blog.imhogan.me](http://blog.imhogan.me)
 - 📫 How to reach me: sxxzqhg@gmail.com
-
-
-📊 **Last 30 day my coding activity**
-<img src="https://wakatime.com/share/@qihonggang/6a4db9d4-3f0b-4a44-98d5-e37cdb1d61ec.png" />
