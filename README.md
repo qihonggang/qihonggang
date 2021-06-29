@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on XPeng Motors😉
-- 🌱 I’m currently learning K8s, Prometheus and Grafana.
+- 🌱 I’m currently learning kubernetes, Prometheus and Grafana.
 - 💬 Ask me about Golang/Java/Python
 - :star: My blog is [blog.imhogan.me](http://blog.imhogan.me)
 - 📫 How to reach me: sxxzqhg@gmail.com
