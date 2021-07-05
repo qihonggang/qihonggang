@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - #START_SECTION:waka# #END_SECTION:waka#
 -->
 
-- 🔭 I’m currently working at [XMotors](https://www.xiaopeng.com/)😉
+- 🔭 I’m currently working at [XPeng Motors](https://www.xiaopeng.com/)😉
 - 🌱 I’m currently learning Kubernetes, Prometheus and Grafana.
 - 💬 Ask me about Golang/Python/Java
 - :star: My blog is [blog.imhogan.me](http://blog.imhogan.me)
