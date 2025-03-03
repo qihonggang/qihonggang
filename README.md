@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working at [XPeng Motors](https://www.xiaopeng.com/)😉
-- 🌱 I’m currently learning Cloud Native
+- 🌱 I’m currently learning LLM and Cloud Native
 - 💬 Ask me about Golang
 - 📫 How to reach me: sxxzqhg@gmail.com
